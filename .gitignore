@@ -4,4 +4,4 @@
 .parquet
 derby.log
 metastore_db
-data/*
+data
